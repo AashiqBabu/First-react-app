@@ -1,0 +1,16 @@
+.w3-button-item:hover,
+.w3-theme:hover,
+.active {
+  color: coral !important;
+  background-color: #373538 !important;
+}
+
+.w3-bar {
+  position: fixed;
+  top: 1.49cm;
+  box-shadow: black;
+  background-color: coral !important;
+  color: #373538;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}

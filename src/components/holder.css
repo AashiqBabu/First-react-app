@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+}
+#holder {
+  margin-top: 2.5cm;
+  overflow: scroll;
+  height: 100%;
+  width: 4.8cm;
+  background-color: #373538;
+}
+
+.w3-card {
+  width: 95%;
+  border-radius: 5px;
+  height: 5cm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.4cm;
+}
+
+.w3-container {
+  padding: 20px;
+}
+
+img {
+  display: flex;
+  opacity: 0.5;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+}
